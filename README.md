@@ -7,7 +7,9 @@
 
 
 > [!NOTE]
-> Current local database includes `263614 DMR IDs` fetched from [RadioID](https://radioid.net)
+> Current local database includes `263614 DMR IDs` fetched from [RadioID](https://radioid.net).
+> 
+> *(As of 23.07.2024)*
 
 ---
 
