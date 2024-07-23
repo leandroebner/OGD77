@@ -4,5 +4,7 @@
 > [!NOTE]
 > Current local database includes `263614 DMR IDs` fetched from [RadioID](https://radioid.net)
 
+---
 
-![test](docs/SG#1)
+
+![SG#1](docs/SG-1.png)
